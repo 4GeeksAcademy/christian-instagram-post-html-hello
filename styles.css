@@ -1,0 +1,106 @@
+body {
+    background: black;
+}
+.Container{
+    width: 50%;
+    margin: auto;
+    background: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.logo{
+    font-size: 60px;
+    padding-right: 10px;
+    padding-left: 25px;
+}
+.cabecera{
+    display: flex;
+    justify-content: space-between;
+    margin-top: -15px;
+                                                                     
+}
+
+.box-left{
+    display: flex;
+    background: white     ;
+    padding-left: 15px;
+    
+}
+.box-right{
+    padding-right: 15px;
+}
+.menu{
+    font-size: 40px;
+    display: flex;
+    padding-left: 10px;
+    margin-bottom: 15px;
+    margin-left: 680px;
+    
+}
+h1{
+    font-size: 25px;
+    padding-top: 40px;
+    margin-bottom: -8px;
+}
+button{
+    display: flex;
+    margin-bottom: none;
+    margin-top: 35px;
+    margin-right: 15px;
+    background: white;
+    border: none;
+    
+}
+.menu{
+    display: flex;
+    padding-left: 10px;
+    margin-top: 65px;
+    margin-left: 720px;
+}
+.paisaje{
+    width: 100%;
+}
+.post-icons{
+    width: 100%;
+    background: white;
+}
+.postIcons{
+    display: flex;
+    width: 100%;
+    height: 100px;
+}
+.heart{
+    display: flex;
+    font-size: 40px;
+    margin: 30px 10px 100px 10px;
+}
+.comment{
+    display: flex;
+    font-size: 40px;
+    margin: 30px 10px 100px 0px;
+}
+.plane{
+    display: flex;
+    font-size: 40px;
+    margin: 30px 10px 100px 0px;
+}
+.bookmark{
+    display: flex;
+    font-size: 40px;
+    margin: 30px 10px 100px 750px;
+}
+.postFooter1{
+    font-size: x-large;
+    background: white;
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+}
+.postFooter2{
+    font-size: x-large;
+    background: white;
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+}
